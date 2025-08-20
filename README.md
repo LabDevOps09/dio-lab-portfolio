@@ -21,7 +21,7 @@ O portfólio é um espaço para apresentar meus projetos, habilidades e experiê
 
 ## 📂 Como acessar
 Você pode visualizar o portfólio online através deste link:  
-👉 [Acesse aqui]()  
+👉 [Acesse aqui](https://github.com/LabDevOps09/mariana-dias-portfolio)  
 
 
 ## 📚 Aprendizados
