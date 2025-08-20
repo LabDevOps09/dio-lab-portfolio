@@ -38,14 +38,5 @@ Durante o desenvolvimento deste projeto, pude:
 - Criar uma versão em inglês do site;  
 - Integrar formulário de contato funcional.  
 
-## 📎 Como executar localmente
-Se quiser rodar o projeto na sua máquina:  
+<img width="1429" height="804" alt="image" src="https://github.com/user-attachments/assets/3b465e4f-1aff-4e6d-9b56-f4d4d72b38cf" />
 
-```bash
-# Clone este repositório
-git clone https://github.com/SEU-USUARIO/SEU-PORTFOLIO.git
-
-# Entre na pasta do projeto
-cd SEU-PORTFOLIO
-
-# Abra o arquivo index.html no navegador
